@@ -4,3 +4,6 @@
 [submodule "pairwise_testing"]
 	path = pairwise_testing
 	url = https://github.com/paulo-granthon/fatec_lab_bd_5_pairwise_testing
+[submodule "whitebox_testing"]
+	path = whitebox_testing
+	url = https://github.com/paulo-granthon/fatec_lab_bd_5_whitebox_testing
